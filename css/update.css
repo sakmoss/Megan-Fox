@@ -7,3 +7,18 @@ header h1 {
 	padding: 1rem;
 	background: rgba(150,150,150,.7);
 }
+
+.img-responsive {
+	width: 100%;
+	height: auto;
+}
+
+.portfolio-item {
+	height: 25rem;
+	overflow: hidden;
+}
+
+.portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
+	top: 19%;
+}
+

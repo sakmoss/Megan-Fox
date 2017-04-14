@@ -1,0 +1,9 @@
+header {
+	background-image: url('../img/megan/b8a429a896644aff064a9883a27a793e.jpg');
+	background-position: center top
+}
+header h1 {
+	color: #333;
+	padding: 1rem;
+	background: rgba(150,150,150,.7);
+}
